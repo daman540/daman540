@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-    <img src="joke.png" />
-    <img style="height: 70%; width: 70%; objet-fit: contain"/>
+    [<img src="joke.png" width="250"/>](joke.png)
 </div>
 
 ###
@@ -31,7 +30,9 @@
 
 ###
 
-<p align="left"> Read more about me at my website! [Click Here](daman540.github.io)
+<p align="left"> Read more about me at my website!
+
+- [Click Here](daman540.github.io)
 
 ###
 
