@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-    <img src="swag.png" />
+    <img src="swag.jpeg" />
 </div>
 
 ###
