@@ -2,8 +2,9 @@
 
 ###
 
-[<img src="joke.png" width="250"/>](joke.png)
-
+<p align="center" width="100%">
+    <img width="50%" src="joke.png">
+</p>
 
 ###
 
