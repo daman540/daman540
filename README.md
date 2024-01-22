@@ -30,8 +30,9 @@
 
 ###
 
-<p align="left"> Read more about me at my website!
+<p align="left"> Read more about me at my website! TL;DR: I am a soon to be graduate at Texas State University with a major in Computer Science with a focus on cloud computing. Proficient in C++, Java, Python, and AI libraries. Skilled in creating visually appealing user interfaces using Java Swing, Python's TKinter, and C++ QT. Self-taught web developer specializing in HTML and CSS. Enthusiastic about tackling new challenges and contributing to the evolving field of technology. 
 
+Want to see the non TL;DR with cool HTML? Visit here!
 - [Click Here](daman540.github.io)
 
 ###
