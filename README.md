@@ -4,6 +4,7 @@
 
 <div align="center">
     <img src="joke.png" />
+    <img style="height: 70%; width: 70%; objet-fit: contain"/>
 </div>
 
 ###
