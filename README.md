@@ -2,9 +2,8 @@
 
 ###
 
-<div align="center">
-    [<img src="joke.png" width="250"/>](joke.png)
-</div>
+[<img src="joke.png" width="250"/>](joke.png)
+
 
 ###
 
